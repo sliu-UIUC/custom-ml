@@ -6,7 +6,7 @@ This repository consists of various basic statistics and machine learning method
 
 The Scala code is designed in a Object-oriented way so one can pull the data in to the command and create a object, say 
 ```Scala
-var m = new Matirx([0, 0, 0], [1,1,1])
+var m = new Matirx(Seq[Seq[0.0, 0.0, 0.0], Seq[1.0, 1.0, 1.0]])
 ```
 and call correspoinding functions. 
 
